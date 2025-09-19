@@ -1,0 +1,7 @@
+2025-09-19 21:33:23 [main] INFO  es.wara.AppGridPane - INICIO DE APPGRIDPANE..
+2025-09-19 21:33:26 [JavaFX Application Thread] INFO  es.wara.PantallaController - Área de texto actualizada - Contenido actual: 4 caracteres
+2025-09-19 21:33:26 [JavaFX Application Thread] INFO  es.wara.PantallaController - Texto añadido exitosamente. Longitud total de cadena: 4. Cadena: afas
+2025-09-19 21:33:29 [JavaFX Application Thread] INFO  es.wara.PantallaController - CERRANDO APLICACIÓN
+2025-09-19 21:33:38 [main] INFO  es.wara.AppGridPane - INICIO DE APPGRIDPANE..
+2025-09-19 21:33:42 [JavaFX Application Thread] INFO  es.wara.PantallaController - Área de texto actualizada - Contenido actual: 6 caracteres
+2025-09-19 21:33:42 [JavaFX Application Thread] INFO  es.wara.PantallaController - Texto añadido exitosamente. Longitud total de cadena: 6. Cadena: sdasda

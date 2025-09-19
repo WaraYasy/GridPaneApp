@@ -1,0 +1,16 @@
+/*Estilo del panel principal*/
+GridPane{
+    -fx-padding: 10;
+    -fx-font-family: "Verdana", sans-serif;
+}
+
+/*Estilo de las etiquetas Name, Description, Status*/
+.labelPrimary{
+    -fx-font-weight: bold;
+}
+
+/*Estilo de la etiqueta del estado*/
+.labelStatus{
+    -fx-font-weight: bold;
+    -fx-text-fill: green;
+}

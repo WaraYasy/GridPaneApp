@@ -11,7 +11,7 @@ La aplicación implementa un editor de texto con interfaz gráfica utilizando Ja
 - Practicar el uso de GridPane para el diseño de interfaces
 - Integrar sistema de logging con SLF4J y Logback
 - Generar un archivo .jar ejecutable
-- Crear una aplicación JavaFX bien estructurada y documentada que cumpla el 'hexalogo' ^^.
+- Crear una aplicación JavaFX bien estructurada y documentada que cumpla el 'hexálogo' ^^
 
 ## Características
 
